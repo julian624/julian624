@@ -1,5 +1,6 @@
-### Hi there 👋
+
 ![image](https://user-images.githubusercontent.com/87099497/216074662-2e299be4-ddf6-43ae-962b-edc98308ae90.png)
+### Hi there 👋
 
 
 
@@ -7,3 +8,5 @@ Hi, I'm Julian Perez I'm 25 years old and I'm a Front end react developer. I'm c
 https://julianperezcv.vercel.app/ my portfolio, although it's a bit outdated since I haven't modified it since 2021.
 
 My latest and best repositories are private, as they are part of jobs, so in an interview I would like to show some of my current level of coding.
+![image](https://user-images.githubusercontent.com/87099497/216075926-d7f91a9b-f8c8-40e8-866f-7f431274ea1e.png)
+
